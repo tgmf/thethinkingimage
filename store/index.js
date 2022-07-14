@@ -1,4 +1,4 @@
-const siteURL = "https://admin.andesign.ru"
+const siteURL = "https://admin.tti.cpkiu.xyz"
 
 export const state = () => ({
   categories: [],
